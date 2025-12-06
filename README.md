@@ -3,7 +3,7 @@
 A full-stack web app for real-time object detection using YOLOv8. Upload any image and get instant detections for 80+ classes (people, vehicles, animals, etc.).
 
 ## 🚀 Live Demo
-[Add your Streamlit link here after deployment, e.g., https://yourusername-object-detection.streamlit.app]
+.[https://objectdetection-vgxwkbppwshttd5meyswl5.streamlit.app]
 
 ## Features
 - Image upload & real-time YOLOv8 inference
