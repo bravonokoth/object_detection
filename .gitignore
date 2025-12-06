@@ -1,0 +1,39 @@
+# Python / Virtual Environment
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Streamlit
+.streamlit/
+.streamlit/secrets.toml
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-*
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Downloaded YOLO models (optional – they’re big)
+*.pt
+!yolov8n.pt
+!yolov8m.pt
+
+# Output images / results
+result.jpg
+detected_*.jpg
+output.mp4
+
+# Local testing files
+test.jpg
+test.png
